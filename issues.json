@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Improve dashboard speed",
+        "description": "Optimize API requests",
+        "status": "in_progress",
+        "priority": "high",
+        "reporter_id": 1,
+        "created_at": "2026-05-17 22:20:01.428830"
+    }
+]
+
